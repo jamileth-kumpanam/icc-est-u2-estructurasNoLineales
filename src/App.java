@@ -26,7 +26,7 @@ public class App {
 
         System.out.println("Árbol está equilibrado: " + ab.estaEquilibrado());
 
-        int nuevo = 5;
+        int nuevo = 15;
         System.out.println("* Agregar valor: " + nuevo);
         ab.insert(nuevo);
 
